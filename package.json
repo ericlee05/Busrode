@@ -4,6 +4,7 @@
   "description": "Busrode\r ===============\r > 대한민국 버스정보시스템 라이브러리",
   "main": "./dist/Busrode.js",
   "scripts": {
+    "example": "tsc && node ./dist/Example.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/VINTO1819/Busrode/issues"
   },
-  "homepage": "https://github.com/VINTO1819/Busrode#readme"
+  "homepage": "https://github.com/VINTO1819/Busrode#readme",
+  "dependencies": {
+    "@types/iconv-lite": "0.0.1",
+    "@types/url-join": "^4.0.0",
+    "@types/xml2js": "^0.4.8",
+    "axios": "^0.21.1",
+    "iconv-lite": "^0.6.2",
+    "url-join": "^4.0.1",
+    "xml2js": "^0.4.23"
+  }
 }

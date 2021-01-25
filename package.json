@@ -1,0 +1,19 @@
+{
+  "name": "busrode",
+  "version": "1.0.0",
+  "description": "Busrode\r ===============\r > 대한민국 버스정보시스템 라이브러리",
+  "main": "./dist/Busrode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VINTO1819/Busrode.git"
+  },
+  "author": "V!NT0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VINTO1819/Busrode/issues"
+  },
+  "homepage": "https://github.com/VINTO1819/Busrode#readme"
+}
